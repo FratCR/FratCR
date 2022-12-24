@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FratCR
-- 👀 I’m interested in Programming, Sports, Gaming...
-- 🌱 I’m currently learning C,C#,Python,HTML,CSS,JSP...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming, Sports, Gaming
+- 🌱 I’m currently learning C,C#,Python,HTML,CSS,JSP
 - 📫 How to reach me https://www.instagram.com/fratos0/
 
 <!---
