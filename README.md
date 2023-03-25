@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FratCR
-- 👀 I’m interested in Programming, Sports, Gaming
+- 👋 Hi, I’m Fırat Çakır
+- 👀 I’m interested in Programming, Sports, Gaming, Movies and Series, Playing Guitar etc.
 - 🌱 I’m currently learning C,C#,Python,HTML,CSS,Rust
-- 📫 How to reach me https://www.instagram.com/fratos0/
-
-<!---
-FratCR/FratCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+- 📫 How to reach me to: 
+- Instagram: https://www.instagram.com/fratos0/
+- Linkedln: https://www.linkedin.com/in/f%C4%B1rat-%C3%A7akir-4b5b90251/
