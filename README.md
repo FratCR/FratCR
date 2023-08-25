@@ -4,3 +4,4 @@
 - 📫 How to reach me to: 
 - Instagram: https://www.instagram.com/fratos0/
 - Linkedln: https://www.linkedin.com/in/f%C4%B1rat-%C3%A7akir-4b5b90251/
+- E-Mail: cakir2.berat@gmail.com
